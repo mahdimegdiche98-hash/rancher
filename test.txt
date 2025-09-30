@@ -1,1 +1,3 @@
-rancher is mcm by suze 
+rancher is mcm by suze
+
+it's open source & open communty 
